@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">aplicacion gleiker</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Pantalla 1</string>
+    <string name="second_fragment_label">Pantalla 2</string>
+    <string name="go_to_second">Ir a la pantalla 2</string>
+    <string name="go_to_first">Volver a la pantalla 1</string>
+</resources>
